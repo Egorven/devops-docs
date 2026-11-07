@@ -12,6 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Egorven.github.io/devops-docs/`.
-
-Тест несуществующий ссылки [страница](missing-page.md)
-
